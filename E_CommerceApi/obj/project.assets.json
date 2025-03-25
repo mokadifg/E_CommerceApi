@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mkadi\\source\\repos\\E_CommerceApi\\E_CommerceApi\\E_CommerceApi.csproj",
+      "projectUniqueName": "C:\\Users\\mkadi\\Desktop\\E_CommerceApi\\E_CommerceApi\\E_CommerceApi.csproj",
       "projectName": "E_CommerceApi",
-      "projectPath": "C:\\Users\\mkadi\\source\\repos\\E_CommerceApi\\E_CommerceApi\\E_CommerceApi.csproj",
+      "projectPath": "C:\\Users\\mkadi\\Desktop\\E_CommerceApi\\E_CommerceApi\\E_CommerceApi.csproj",
       "packagesPath": "C:\\Users\\mkadi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mkadi\\source\\repos\\E_CommerceApi\\E_CommerceApi\\obj\\",
+      "outputPath": "C:\\Users\\mkadi\\Desktop\\E_CommerceApi\\E_CommerceApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
